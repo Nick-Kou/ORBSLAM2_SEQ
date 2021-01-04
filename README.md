@@ -18,5 +18,5 @@ cd /PATH/TO/ORBSLAM2_SEQ
 
 ![Snippet2](https://user-images.githubusercontent.com/51099935/103524605-d3ed7380-4e4b-11eb-8f32-3ce0a3222dca.png)
 
-
+Video: https://www.youtube.com/watch?v=9JyhX88keb4
 
